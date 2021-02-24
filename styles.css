@@ -1,0 +1,71 @@
+
+img{
+	width: 70px;
+}
+
+
+.main{
+	width: 600px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	overflow: hidden;
+	
+	
+}
+
+.first{
+	overflow: hidden;
+}
+
+.second{
+	overflow: hidden;
+}
+
+.title{
+	float: left;
+	width: 50%;
+	
+}
+
+.logo{
+	float:right;
+}
+
+
+.paragraf{
+	float:left;
+	width: 50%;
+	margin-top: 40px;
+}
+
+.paragraf p{
+	text-align: justify;
+	font-size: 18px;
+}
+
+.form{
+	float: right;
+	margin-top: 50px;
+	width: 40%;
+}
+
+.form input{
+	width: 200px;
+	display: block;
+	border-left: none;
+	border-right: none;
+	border-top: none;
+	margin-top: 10px;
+}
+
+.send{
+	text-align: center;
+	margin-top: 50px;
+	
+}
+
+.send input{
+	padding: 20px;
+}
